@@ -17,7 +17,7 @@ ds
 
 ds
 
-![](/img/all_revised.jpg)
+![null](/img/all_revised.jpg)
 
 dsnkjskds
 
@@ -33,4 +33,4 @@ ds
 
 ds
 
-![](/img/all_revised.jpg)
+![null](/img/all_revised.jpg)
